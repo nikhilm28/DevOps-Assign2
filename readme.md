@@ -8,7 +8,7 @@ Your local machine should have docker and docker-compose installed in it.
 
 Run the docker-compose file:
 
-1. Go to the folder where docker-compose file is present.
+1. Go to the directory where docker-compose file is present.
 
 2. Then run the command
     'docker-compose up -d'
@@ -16,7 +16,7 @@ Run the docker-compose file:
 3. When the containers are created, Go to your browser and run the address
     'localhost:8081'
 
-4. After that use the user name and password
+4. After that use the username and password
     'root' '123'
 
 5. When the dashboard is up of phpmyadmin check for the databases created.
